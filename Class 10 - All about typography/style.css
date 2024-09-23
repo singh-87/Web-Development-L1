@@ -1,0 +1,67 @@
+section{
+    min-height:350px;   
+}
+#sec1{
+    background-color: aliceblue;
+}
+#sec2{
+    background-color: black;
+}
+body{
+    background-color:darkgoldenrod;
+}
+.c2{
+    font-family:fantasy;
+    font-size: 25px;
+    color:cyan;
+}
+.c3{
+    font-family: cursive;
+    color:chartreuse;
+    font-size: 25px;
+}
+.c4{
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color:whitesmoke;
+  font-size: 25px;
+}
+.c5{
+    text-decoration: underline;
+    color:cyan;
+    font-size:25px;
+}
+.c6{
+    text-decoration: underline dotted ;
+    color:cyan;
+    font-size:25px;
+}
+.c7{
+    text-decoration: green wavy underline;
+    color:cyan;
+    font-size:25px;
+}
+.c8{
+    text-decoration:  underline overline #FF3028;
+    color:cyan;
+    font-size:25px;
+}
+#h21{
+    text-shadow: 3px 3px 2px magenta;
+    font-size: 50px;
+}
+#sec3{
+    width:500px;
+    box-shadow: 5px 5px 2px white;
+    background-color: cyan ;
+}
+h1{
+    background: linear-gradient(red,blue,cyan);
+    background-clip: text;
+    color: transparent;
+    font-size: 35.5px;
+    box-shadow: 3px 3px 2px white;
+    width: 500px;
+    text-align: center;
+}
+
