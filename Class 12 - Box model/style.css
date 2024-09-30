@@ -1,0 +1,63 @@
+body{
+    background-color: cyan;
+}
+.b1{
+    border:2px solid red;
+    width:500px;
+}
+.b2:hover{
+    border-bottom: 4mm ridge rgba(211, 220, 50, .6);
+    width:450px;
+    transition:2s;
+}
+.p1{
+    border-bottom: 4mm ridge rgba(211, 220, 50, .6);
+    padding-left: 50px;
+    width:450px;
+    transition:2s;
+
+}
+.p2{
+    border:2mm ridge rgba(50, 180, 220, 0.6);
+    padding: 50px;
+    width:450px;
+    transition:2s;
+}
+.m1{
+    border:2mm ridge rgba(50, 180, 220, 0.6);
+    padding: 50px;
+    margin-left:200px;
+    width:450px;
+}
+.m2{
+    border:2mm ridge rgba(50, 180, 220, 0.6);
+    padding: 50px;
+    margin-top:200px;
+    margin-bottom:200px;
+    width:450px;
+}
+.m3{
+    border:2mm ridge rgba(50, 180, 220, 0.6);
+    padding: 50px;
+    margin-right:50px;
+    width:450px;
+}
+.im1:hover{
+    border:2mm ridge rgba(50, 180, 220, 0.6);
+    padding:50px;
+    height:300px;
+    transition:2s;
+}
+li::selection{
+    color: pink;
+    background-color: brown;
+}
+.anime1{
+    float: left;
+    margin:0px 50px 50px 50px;
+}
+p{
+    font-size:26px;
+    padding:50px;
+    text-align: justify;
+}
